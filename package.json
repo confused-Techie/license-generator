@@ -11,5 +11,6 @@
     "pulsar-package"
   ],
   "author": "confused-Techie",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/confused-Techie/license-generator"
 }
