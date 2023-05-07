@@ -1,0 +1,15 @@
+{
+  "name": "license-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pulsar-edit",
+    "pulsar-package"
+  ],
+  "author": "confused-Techie",
+  "license": "MIT"
+}
