@@ -1,0 +1,212 @@
+diff --git a/licenses/0BSD.txt b/licenses/0BSD.txt
+index 0b8ae76..9c6fa58 100644
+--- a/licenses/0BSD.txt
++++ b/licenses/0BSD.txt
+@@ -1,4 +1,4 @@
+-Copyright (C) YEAR by AUTHOR EMAIL
++Copyright (C) <YEAR> by <NAME> <EMAIL>
+ 
+ Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+ 
+diff --git a/licenses/AAL.txt b/licenses/AAL.txt
+index 11ee9d9..d27368e 100644
+--- a/licenses/AAL.txt
++++ b/licenses/AAL.txt
+@@ -1,6 +1,6 @@
+ Attribution Assurance License
+ 
+-Copyright (c) 2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL "PROMOTIONAL SLOGAN FOR AUTHOR'S PROFESSIONAL PRACTICE"
++Copyright (c) 2002 by <NAME> <PROFESSIONAL IDENTIFICATION> * <URL> "<PROMOTIONAL SLOGAN>"
+ 
+ All Rights Reserved
+ 
+@@ -12,9 +12,9 @@ Redistribution and use in source and binary forms, with or without modification,
+ 
+ 2. Redistributions of the Code in binary form must be accompanied by this GPG-signed text in any documentation and, each time the resulting executable program or a program dependent thereon is launched, a prominent display (e.g., splash screen or banner text) of the Author's attribution information, which includes:
+ 
+-     (a) Name ("AUTHOR"),
+-     (b) Professional identification ("PROFESSIONAL IDENTIFICATION"), and
+-     (c) URL ("URL").
++     (a) Name ("<NAME>"),
++     (b) Professional identification ("<PROFESSIONAL IDENTIFICATION>"), and
++     (c) URL ("<URL>").
+ 
+ 3. Neither the name nor any trademark of the Author may be used to endorse or promote products derived from this software without specific prior written permission.
+ 
+diff --git a/licenses/ASWF-Digital-Assets-1.0.txt b/licenses/ASWF-Digital-Assets-1.0.txt
+index 27e45b1..43ec5dd 100644
+--- a/licenses/ASWF-Digital-Assets-1.0.txt
++++ b/licenses/ASWF-Digital-Assets-1.0.txt
+@@ -2,7 +2,7 @@ ASWF Digital Assets License v1.0
+ 
+ License for <Asset Name> (the "Asset Name").
+ 
+-<Asset Name> Copyright <Year> <Asset Owner>. All rights reserved.
++<Asset Name> Copyright <YEAR> <NAME>. All rights reserved.
+ 
+ Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting reproducibility of the benchmark results by third parties), or software and hardware product demonstrations, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-1-Clause.txt b/licenses/BSD-1-Clause.txt
+index 4005b63..2cb2c75 100644
+--- a/licenses/BSD-1-Clause.txt
++++ b/licenses/BSD-1-Clause.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <year> <owner>. All rights reserved.
++Copyright (c) <YEAR> <NAME>. All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-2-Clause-Patent.txt b/licenses/BSD-2-Clause-Patent.txt
+index 31de6e4..722c56c 100644
+--- a/licenses/BSD-2-Clause-Patent.txt
++++ b/licenses/BSD-2-Clause-Patent.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <YEAR> <COPYRIGHT HOLDERS>
++Copyright (c) <YEAR> <NAME>
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-2-Clause-Views.txt b/licenses/BSD-2-Clause-Views.txt
+index be605e3..c420cc4 100644
+--- a/licenses/BSD-2-Clause-Views.txt
++++ b/licenses/BSD-2-Clause-Views.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <year> <owner> All rights reserved.
++Copyright (c) <YEAR> <NAME> All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-3-Clause-Clear.txt b/licenses/BSD-3-Clause-Clear.txt
+index cad8b56..8fba659 100644
+--- a/licenses/BSD-3-Clause-Clear.txt
++++ b/licenses/BSD-3-Clause-Clear.txt
+@@ -1,6 +1,6 @@
+ The Clear BSD License
+ 
+-Copyright (c) [xxxx]-[xxxx] [Owner Organization]
++Copyright (c) <YEAR> <NAME>
+ All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted (subject to the limitations in the disclaimer below) provided that the following conditions are met:
+@@ -9,6 +9,6 @@ Redistribution and use in source and binary forms, with or without modification,
+ 
+      * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ 
+-     * Neither the name of [Owner Organization] nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
++     * Neither the name of <NAME> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+ 
+ NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+diff --git a/licenses/BSD-3-Clause-No-Military-License.txt b/licenses/BSD-3-Clause-No-Military-License.txt
+index e06aa93..5cd566d 100644
+--- a/licenses/BSD-3-Clause-No-Military-License.txt
++++ b/licenses/BSD-3-Clause-No-Military-License.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) year copyright holder. All Rights Reserved.
++Copyright (c) <YEAR> <NAME>. All Rights Reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-4-Clause-UC.txt b/licenses/BSD-4-Clause-UC.txt
+index 69edbe3..13f7169 100644
+--- a/licenses/BSD-4-Clause-UC.txt
++++ b/licenses/BSD-4-Clause-UC.txt
+@@ -1,6 +1,6 @@
+ BSD-4-Clause (University of California-Specific)
+ 
+-Copyright [various years] The Regents of the University of California. All rights reserved.
++Copyright <YEAR> The Regents of the University of California. All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/BSD-4-Clause.txt b/licenses/BSD-4-Clause.txt
+index 1e67e14..4d3ab90 100644
+--- a/licenses/BSD-4-Clause.txt
++++ b/licenses/BSD-4-Clause.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <year> <owner>. All rights reserved.
++Copyright (c) <YEAR> <NAME>. All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/CDL-1.0.txt b/licenses/CDL-1.0.txt
+index e2990cd..933727a 100644
+--- a/licenses/CDL-1.0.txt
++++ b/licenses/CDL-1.0.txt
+@@ -50,4 +50,4 @@ EXHIBIT A
+ 
+ The proper form for an incorporation of this License by reference is as follows:
+ 
+-"Copyright (c) [year] by [Copyright Holder's name]. This material has been released under and is subject to the terms of the Common Documentation License, v.1.0, the terms of which are hereby incorporated by reference. Please obtain a copy of the License at http://www.opensource.apple.com/cdl/ and read it before using this material. Your use of this material signifies your agreement to the terms of the License."
++"Copyright (c) <YEAR> by <NAME>. This material has been released under and is subject to the terms of the Common Documentation License, v.1.0, the terms of which are hereby incorporated by reference. Please obtain a copy of the License at http://www.opensource.apple.com/cdl/ and read it before using this material. Your use of this material signifies your agreement to the terms of the License."
+diff --git a/licenses/LGPL-3.0+.txt b/licenses/LGPL-3.0+.txt
+index 4a0758c..8ab70f8 100644
+--- a/licenses/LGPL-3.0+.txt
++++ b/licenses/LGPL-3.0+.txt
+@@ -306,7 +306,7 @@ To do so, attach the following notices to the program. It is safest to attach th
+ 
+ <one line to give the program's name and a brief idea of what it does.>
+ 
+-Copyright (C) <year> <name of author>
++Copyright (C) <YEAR> <NAME>
+ 
+ This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+ 
+@@ -318,7 +318,7 @@ Also add information on how to contact you by electronic and paper mail.
+ 
+ If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
+ 
+-<program> Copyright (C) <year> <name of author>
++<program> Copyright (C) <YEAR> <NAME>
+ 
+ This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+ 
+@@ -329,4 +329,3 @@ The hypothetical commands `show w' and `show c' should show the appropriate part
+ You should also get your employer (if you work as a programmer) or school, if any, to sign a "copyright disclaimer" for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <https://www.gnu.org/licenses/>.
+ 
+ The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/ licenses /why-not-lgpl.html>.
+-
+diff --git a/licenses/apache-2.0.txt b/licenses/apache-2.0.txt
+index 137069b..949912d 100644
+--- a/licenses/apache-2.0.txt
++++ b/licenses/apache-2.0.txt
+@@ -58,7 +58,7 @@ APPENDIX: How to apply the Apache License to your work.
+ 
+ To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!)  The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+ 
+-Copyright [yyyy] [name of copyright owner]
++Copyright <YEAR> <NAME>
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+diff --git a/licenses/bsd-2-clause.txt b/licenses/bsd-2-clause.txt
+index 5f662b3..fc7c680 100644
+--- a/licenses/bsd-2-clause.txt
++++ b/licenses/bsd-2-clause.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <year> <owner> 
++Copyright (c) <YEAR> <NAME> 
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/bsd-3-clause.txt b/licenses/bsd-3-clause.txt
+index ea890af..f82c331 100644
+--- a/licenses/bsd-3-clause.txt
++++ b/licenses/bsd-3-clause.txt
+@@ -1,4 +1,4 @@
+-Copyright (c) <year> <owner>. 
++Copyright (c) <YEAR> <NAME>. 
+ 
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ 
+diff --git a/licenses/mit.txt b/licenses/mit.txt
+index 2071b23..bb10afc 100644
+--- a/licenses/mit.txt
++++ b/licenses/mit.txt
+@@ -1,6 +1,6 @@
+ MIT License
+ 
+-Copyright (c) <year> <copyright holders>
++Copyright (c) <YEAR> <NAME>
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ 
