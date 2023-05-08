@@ -1,6 +1,6 @@
 {
   "name": "license-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate any valid SPDX license within Pulsar",
   "main": "./lib/main.js",
   "scripts": {
