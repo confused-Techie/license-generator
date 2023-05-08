@@ -4,7 +4,8 @@
   "description": "",
   "main": "./lib/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node ./update/update.js"
   },
   "keywords": [
     "pulsar-edit",
