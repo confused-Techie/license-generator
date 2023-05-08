@@ -2,7 +2,7 @@ ASWF Digital Assets License v1.0
 
 License for <Asset Name> (the "Asset Name").
 
-<Asset Name> Copyright <Year> <Asset Owner>. All rights reserved.
+<Asset Name> Copyright <YEAR> <NAME>. All rights reserved.
 
 Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting reproducibility of the benchmark results by third parties), or software and hardware product demonstrations, are permitted provided that the following conditions are met:
 

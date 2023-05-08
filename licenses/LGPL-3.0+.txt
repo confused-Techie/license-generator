@@ -306,7 +306,7 @@ To do so, attach the following notices to the program. It is safest to attach th
 
 <one line to give the program's name and a brief idea of what it does.>
 
-Copyright (C) <year> <name of author>
+Copyright (C) <YEAR> <NAME>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -318,7 +318,7 @@ Also add information on how to contact you by electronic and paper mail.
 
 If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
 
-<program> Copyright (C) <year> <name of author>
+<program> Copyright (C) <YEAR> <NAME>
 
 This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
 
@@ -329,4 +329,3 @@ The hypothetical commands `show w' and `show c' should show the appropriate part
 You should also get your employer (if you work as a programmer) or school, if any, to sign a "copyright disclaimer" for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <https://www.gnu.org/licenses/>.
 
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/ licenses /why-not-lgpl.html>.
-
